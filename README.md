@@ -1,1 +1,1 @@
-# RSschool-cv
+git https://KosmosKing.github.io/rsschool-cv/cv
